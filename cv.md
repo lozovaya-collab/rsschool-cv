@@ -65,7 +65,7 @@ B1 - Intermediate
 
  Udemy course "Modern JavaScript + Vue from scratch on real projects"
 
- ## **WORK EXPERIENCE**
+## **WORK EXPERIENCE**
 
  #### **Internship** 
  
