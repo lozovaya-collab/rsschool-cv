@@ -49,34 +49,34 @@ B1 - Intermediate
 
 ## **EDUCATION**
 
- ##### **2017 - present** 
+**2017 - present** 
  
- Samara National Research University
+Samara National Research University
 
- Faculty of lnformation Technology
+Faculty of lnformation Technology
 
- Bachelor's degree in applied mathematics and computer science
+Bachelor's degree in applied mathematics and computer science
 
- ##### **July - August 2020**
+**July - August 2020**
 
- Internship in "I-sys labs"
+Internship in "I-sys labs"
 
- ##### **August 2020 - present**
+**August 2020 - present**
 
  Udemy course "Modern JavaScript + Vue from scratch on real projects"
 
 ## **WORK EXPERIENCE**
 
- #### **Internship** 
+#### **Internship** 
  
- My training projects:
+My training projects:
 
- 1. The project on Vue.js called **EnglishWorld**. This is an application implemented on a framework Vue.js, the interface is written using Vuetify, and the cloud storage FireBase is used to save data. The animation in on the start page was written on CSS. That web-application was created for help to user learn English. The app is published on FireBase hosting.  
- **GitHub** : https://github.com/lozovaya-collab/EnglishWorld  
- **Website** : https://englishworld-601f4.web.app/
+1. The project on Vue.js called **EnglishWorld**. This is an application implemented on a framework Vue.js, the interface is written using Vuetify, and the cloud storage FireBase is used to save data. The animation in on the start page was written on CSS. That web-application was created for help to user learn English. The app is published on FireBase hosting.  
+**GitHub** : https://github.com/lozovaya-collab/EnglishWorld  
+**Website** : https://englishworld-601f4.web.app/
 
 
- 2. A JavaScript task is a slider. It was written in JavaScript, Html, and Css. The slider contains images that are already automatically flipped. You can also disable AutoPlay using the pause button and switch between the other two buttons. Images can be scrolled with the mouse and touched.  
- **GitHub** : https://github.com/lozovaya-collab/mySliderJS
+2. A JavaScript task is a slider. It was written in JavaScript, Html, and Css. The slider contains images that are already automatically flipped. You can also disable AutoPlay using the pause button and switch between the other two buttons. Images can be scrolled with the mouse and touched.  
+**GitHub** : https://github.com/lozovaya-collab/mySliderJS
 
  
