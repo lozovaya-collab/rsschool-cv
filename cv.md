@@ -1,5 +1,4 @@
 # ANNA LOZOVAYA
-----
 
 ## **CONTACTS**  
 
