@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+html {
+    overflow-x: hidden;
+    background-color: black;
+}
+
+.headline-name {
+    font-family: 'Montserrat', sans-serif;
+    width: 721px;
+    height: 235px;
+    padding-top: 150px;
+    padding-left: 725px;
+    font-size: 65px;
+    font-weight: 200;
+    color: white;
+    background-size: cover;
+}
+
+.start-page {
+    background-image: url(https://sun9-46.userapi.com/9A1OLKHf8m2kgLKp2_NCNfEm2TTID7Y01kC81g/YEhfKk8rlAs.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 110vh;
+    margin: -15px;
+}
+
+.info {
+    background-image: url(https://sun9-42.userapi.com/Xe5geLhGE7Q2JCMh5srnUsS_nQV6MfUa3jfIhA/ExNx7Z9bsaA.jpg);
+    background-repeat: no-repeat;
+    height: 115vh;
+    margin: -15px;
+}
+
+.text {
+    font-family: 'Montserrat', sans-serif;
+    width: 990px;
+    height: 534px;
+    padding-top: 190px;
+    padding-left: 305px;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+.skillsAndLanguages {
+    background-image: url(https://sun9-47.userapi.com/n6fVXb6qp9vZc3M1Qk7ffbQidvVh0o35v4GaGA/YW_PRX1wD08.jpg);
+    background-repeat: no-repeat;
+    height: 115vh;
+    margin: -15px;
+}
+
+.headlines-SkillsAndLanguages {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    color: white;
+    font-size: 36px;
+    width: 215px;
+    height: 215px;
+}
+
+.headline-skills {
+    padding-top: 1px;
+    padding-left: 128px;
+    width: 161px;
+    height: 63px;
+}
+
+.firstListSkills {
+    margin-left: 180px;
+    margin-top: 72px;
+}
+
+.secondListSkills {
+    margin-left: 440px;
+    margin-top: -253px;
+}
+
+.Languages {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 40px;
+    color: white;
+    height: 280px;
+    padding-top: 15px;
+    padding-left: 905px;
+    line-height: 1.9;
+}
+
+.secondListSkills,
+.firstListSkills li {
+    font-family: 'Montserrat', sans-serif;
+    list-style-type: none;
+    color: white;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 2;
+}
+
+.headline-languages {
+    padding-top: 0px;
+    padding-left: 1140px;
+    width: 358px;
+    height: 78px;
+}
+
+.education {
+    background-image: url(https://sun9-2.userapi.com/pwYNLkA29-MS0giBKOLMrkKfatMaVRP5Iq1ppA/d3FOfJiI3TM.jpg);
+    background-repeat: no-repeat;
+    height: 115vh;
+    margin: -15px;
+}
+
+.headline-education {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 40px;
+    width: 535px;
+    height: 65px;
+    padding-left: 570px;
+    padding-top: 50px;
+}
+
+.education-info {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    color: white;
+    font-size: 25px;
+    padding-left: 335px;
+    margin-top: -15px;
+    width: 990px;
+}
+
+.box-edu {
+    padding-top: 115px;
+}
+
+.workExperience {
+    background-image: url(https://sun9-27.userapi.com/8w3I3bz7E_sHtuC1C_2sfjVqXfkzuEd916lbnA/mnTNl3t7U18.jpg);
+    background-repeat: no-repeat;
+    height: 90vh;
+    margin: -8px;
+}
+
+.headline-projects {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 22px;
+    margin-bottom: 35px;
+}
+
+.headline-work {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 40px;
+    margin-left: 120px;
+    margin-top: 229px;
+    padding: 5px;
+    float: left;
+    width: 575px;
+}
+
+.box {
+    margin-top: 50px;
+    padding: 5px;
+    float: left;
+    width: 460px;
+}
+
+.projects-info {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 22px;
+    height: 210px;
+    width: 746px;
+    margin-bottom: 58px;
+}
+
+.headline-contacts {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    height: 200px;
+    width: 400px;
+}
+
+.myContacts {
+    margin-top: -25px;
+    margin-left: -40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    color: white;
+    padding-top: 5px;
+}
+
+.myContacts-data {
+    margin-top: -140px;
+    margin-left: 145px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    color: white;
+    width: 535px;
+}
+
+.myContacts,
+.myContacts-data li {
+    list-style-type: none;
+    line-height: 2;
+}
